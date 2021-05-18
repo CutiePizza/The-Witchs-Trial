@@ -9,4 +9,4 @@ This is my graduation project for Holberton School, a project-based, peer learni
 ## Description
 The game is set up in a beautiful fantasy world, full of magic and different creatures. The player, whom is a witch, will go through multiple tests (levels). Each test is timed and is different from the other as it evaluates everytime an ability of the witch.
 
-<p align="center">*This game is designed to have multiple levels, because of time scope only one has been made for now. more will come in the future.*</p>
+<p align="center">_This game is designed to have multiple levels, because of time scope only one has been made for now. more will come in the future._</p>
