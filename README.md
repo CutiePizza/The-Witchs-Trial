@@ -45,3 +45,4 @@ You can watch my game demo [here](https://youtu.be/mfttqPEolg4) 🥰
 * [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
 * [SpaceSkies Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503)
 * [Simple Gems Ultimate Animated Customizable Pack](https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764)
+*If you have seen your work being used and I didn't give you credits please let me know 🙂*
