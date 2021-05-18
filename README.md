@@ -30,6 +30,18 @@ The course is made up of :
 * Occulus Integration
 
 ## Game demo
-You can watch my game demo here : 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mfttqPEolg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You can watch my game demo [here](https://youtu.be/mfttqPEolg4) 🥰
 
+## Free assets used
+* [Witchcraft and Wizardry Asset Pack](https://assetstore.unity.com/packages/3d/props/free-witchcraft-and-wizardry-asset-pack-141428)
+* [Elemental Magic Totems](https://assetstore.unity.com/packages/3d/elemental-magic-totems-59522)
+* [Magic VFX – Ice ](https://assetstore.unity.com/packages/vfx/particles/spells/magic-vfx-ice-free-170242)
+* [Effect textures and prefabs](https://assetstore.unity.com/packages/vfx/particles/effect-textures-and-prefabs-109031)
+* [RPG Music Pack: Lite Edition](https://assetstore.unity.com/packages/audio/music/rpg-music-pack-lite-edition-149931)
+* [Magical Music Album](https://assetstore.unity.com/packages/audio/music/magical-music-album-040618-117907)
+* [3D Game Kit - Environment Pack](https://assetstore.unity.com/packages/3d/3d-game-kit-environment-pack-135167)
+* [Evil Dragon Pack HP](https://assetstore.unity.com/packages/3d/characters/creatures/evil-dragon-pack-hp-79398)
+* [Flying Tree](https://assetstore.unity.com/packages/3d/environments/fantasy/flying-tree-33053)
+* [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+* [SpaceSkies Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503)
+* [Simple Gems Ultimate Animated Customizable Pack](https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764)
