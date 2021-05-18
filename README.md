@@ -50,3 +50,5 @@ You can watch my game demo [here](https://youtu.be/mfttqPEolg4) 🥰
 
 ## Developer
 Inès Chokri [LinkedIn](https://www.linkedin.com/in/ines-chokri/) | [Twitter](https://twitter.com/chokri_ines)
+
+**The game is still under construction ✍️🧙
