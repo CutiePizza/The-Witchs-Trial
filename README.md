@@ -16,5 +16,5 @@ For the first test, the witch has to reach the final line within the time limit 
 The course is made up of :
 - **Pink rings :** Adds 3 seconds to the timer.
 - **Red rings :** Substracts 5 seconds from the timer.
-- **Asteroids :** If you bumped into them, a dimaond is taken from the witch.
+- **Asteroids :** If bumped into them, a dimaond is taken from the witch.
 
