@@ -18,13 +18,6 @@ The course is made up of :
 - **Red rings :** Substracts 5 seconds from the timer.
 - **Asteroids :** If bumped into them, a dimaond is taken from the witch.
 
-## Level one : Flying trial
-For the first test, the witch has to reach the final line within the time limit and have collected 10 diamonds by flying on a broom.
-The course is made up of :
-- **Pink rings :** Adds 3 seconds to the timer.
-- **Red rings :** Substracts 5 seconds from the timer.
-- **Asteroids :** If you bumped into them, a dimaond is taken from the witch.
-
 ## Tech used
 * Unity 2019.4.21f1 (64-bit)
 * Occulus Integration
